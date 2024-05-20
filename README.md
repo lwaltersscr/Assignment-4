@@ -17,7 +17,8 @@ In this program, we implement functionality for a multiplication table. Users ca
 ## How to Run the App
    - Open the provided C++ project in Xcode or any C++ compiler.
    - Run the program.
-   - Follow the on-screen instructions to select gas type, input gallons, and choose payment method.
+   - Follow the on-screen instructions to choose what range of numbers you want.
+   - Select yes if you would like to try a different range, and no if you would like to exit.
 
 ## Output
 - Sample Output:
